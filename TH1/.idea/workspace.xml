@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae209dbc-9fa7-4e61-8c11-209d6ac11638" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VFa5jOjcZOyltpWO3b7tez8LMK" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/hoc/thltm1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hoc.thltm1.bai2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Admin\Documents\Android\DoAnHDH\TH_LTM\TH1\src\com\hoc\thltm1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client (2)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hoc.thltm1.bai2.Client" />
+      <module name="TH1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoc.thltm1.bai2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hoc.thltm1.bai3.Client" />
+      <module name="TH1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoc.thltm1.bai3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hoc.thltm1.bai1.Client" />
+      <module name="TH1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoc.thltm1.bai1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hoc.thltm1.bai2.Server" />
+      <module name="TH1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoc.thltm1.bai2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hoc.thltm1.bai3.Server" />
+      <module name="TH1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoc.thltm1.bai3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server (1)" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Server (2)" />
+      <item itemvalue="Application.Client (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Server (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Server (1)" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae209dbc-9fa7-4e61-8c11-209d6ac11638" name="Default Changelist" comment="" />
+      <created>1576851115464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576851115464</updated>
+    </task>
+    <servers />
+  </component>
+</project>

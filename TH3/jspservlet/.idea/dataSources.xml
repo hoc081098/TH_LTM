@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - todo_ltm@localhost" uuid="44fa1c81-53b9-47bd-a024-0306697a9abb">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/todo_ltm</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="Asia/Ho_Chi_Minh" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
